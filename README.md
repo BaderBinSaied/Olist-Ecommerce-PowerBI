@@ -6,7 +6,8 @@ This project analyzes Brazilian e-commerce data using Power BI to explore order 
 ## Dashboard Preview
 
 ### 1. Page 1
-![Overall Dashboard](images/p1.png)
+![Overall Dashboard](images/P1.png)
+
 
 ### 2. Page 2
 ![Order Analysis](images/p2.png)
