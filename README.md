@@ -29,4 +29,4 @@ This project analyzes Brazilian e-commerce data using Power BI to explore order 
 Download the Power BI report (`.pbix`) from the files listed in this repository and open it using Power BI Desktop.
 
 ## Data Source
-Brazilian E-Commerce Public Dataset by Olist, available on Kaggle.
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
