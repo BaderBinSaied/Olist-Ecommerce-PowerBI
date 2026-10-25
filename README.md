@@ -5,7 +5,14 @@ This project analyzes Brazilian e-commerce data using Power BI to explore order 
 
 ## Dashboard Preview
 
-![E-Commerce Dashboard](images/dashboard-overview.png)
+### 1. Page 1
+![Overall Dashboard](images/p1.png)
+
+### 2. Page 2
+![Order Analysis](images/p2.png)
+
+### 3. Page 3
+![Delivery Performance](images/p3.png)
 
 ## Key Analysis Areas
 - **Order Performance:** Analysis of order statuses and order volume.
